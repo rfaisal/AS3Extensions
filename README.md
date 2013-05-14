@@ -12,3 +12,4 @@ Some helper classes for AS3. Some of the classes in as3 are not trivial to use o
 
 ## Contents
 1. `org.rfaisal.media.RawSound` : Construct a `flash.media.Sound` from `ByteArray`. It extends `flash.media.Sound`.
+2. `org.rfaisal.net.FlashMediaServerConnection` : RTMP connection problem to Flash Media Server when try to connect with `flash.net.NetConnection` for some versions of flash sdk (possible errors say something went wrong with onBWDone or onBWCheck). It extends `flash.net.NetConnection`.
