@@ -5,4 +5,4 @@ Some helper classes for AS3. Some of the classes in as3 are not trivial to use o
 
 
 ## Contents
-1. `org.rfaisal.media.RawSound` : Construct a `flash.media.Sound` from ByteArray. It extends `flash.media.Sound`.
+1. `org.rfaisal.media.RawSound` : Construct a `flash.media.Sound` from `ByteArray`. It extends `flash.media.Sound`.
